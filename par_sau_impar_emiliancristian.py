@@ -29,4 +29,3 @@ while True:
     if din_nou != 'da':
         break
 
-print(f"\nScor final: Tu - {scor_utilizator}, Calculatorul - {scor_calculator}")
