@@ -2,7 +2,7 @@
 #F(1) = 1
 #F(n) = F(n-1) + F(n-2), pentru n ≥ 2
 
-n = int(input("Introdu F(n)= "))
+n = int(input("Fibonacci pentru n = "))
 
 if n == 0:
     fb = 0
