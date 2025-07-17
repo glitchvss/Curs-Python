@@ -15,3 +15,15 @@ else:
     fb = b
 
 print(f"F({n}) = {fb}")
+
+
+
+#biblioteca python
+# informatie de pe chat gpt
+#
+
+from sympy import fibonacci
+
+n = int(input("Fibonacci pentru n = "))
+
+print(f"F({n}) = {fibonacci(n)}")
